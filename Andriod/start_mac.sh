@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "starting"
+
 CHECKRA1N=/Applications/checkra1n.app/Contents/MacOS/checkra1n
 export DYLD_LIBRARY_PATH=./
 
