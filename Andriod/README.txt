@@ -1,5 +1,4 @@
-Project Sandcastle - Android build
-Projectsandcastle.org
+Project Sandcastle - Android build - By cool5tar
 
 Android instructions :
 Caution - This will create a new volume on APFS. This should not hurt your ability to boot iOS. But if you are not willing to restore your device. Do not try this as it's still beta.
