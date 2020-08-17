@@ -1,4 +1,10 @@
 #!/bin/bash
+
+echo " Cool5tar's android installer starting..."
+
+echo "started..."
+
+
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd "$DIR"
 export DYLD_LIBRARY_PATH=./
