@@ -1,5 +1,7 @@
 For dual-booting linux on mac
 
+## for all before installation run wget https://mega.nz/file/jvomxKLT#KCI73cJyl2yp7izNLNzew6mxuyqjZc2-Td44tVCTjlo once cloned repo
+
 
 For dual-booting linux on mac once cloned github repo go into linux folder and type
 
