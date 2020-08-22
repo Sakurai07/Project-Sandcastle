@@ -1,6 +1,6 @@
 For dual-booting linux on mac
 
-## for all before installation run wget https://starfiles.co/api/direct/c7442a once cloned repo
+## for all before installation run wget https://starfiles.co/api/direct/c7442a once cloned repo in linux folder
 
 
 For dual-booting linux on mac once cloned github repo go into linux folder and type
