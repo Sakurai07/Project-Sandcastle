@@ -1,13 +1,13 @@
 For dual-booting linux on mac
 
-## for all before installation run wget https://starfiles.co/file/c7442a once cloned repo
+## for all before installation run wget https://starfiles.co/api/direct/c7442a once cloned repo
 
 
 For dual-booting linux on mac once cloned github repo go into linux folder and type
 
 0. install checkra1n first from https://checkra.in
 
-1. wget https://starfiles.co/file/c7442a unless done already
+1. wget https://starfiles.co/api/direct/c7442a unless done already
 
 2. run /Applications/checkra1n.app/Contents/MacOS/checkra1n -cp
 
