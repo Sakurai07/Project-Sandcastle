@@ -1,13 +1,13 @@
 For dual-booting linux on mac
 
-## for all before installation run wget https://starfiles.co/api/direct/c7442a once cloned repo in linux folder
+## for all before installation run bash lzma.sh once cloned repo in linux folder
 
 
 For dual-booting linux on mac once cloned github repo go into linux folder and type
 
 0. install checkra1n first from https://checkra.in
 
-1. wget https://starfiles.co/api/direct/c7442a unless done already
+1. bash lzma.sh unless done already
 
 2. run /Applications/checkra1n.app/Contents/MacOS/checkra1n -cp
 
@@ -19,6 +19,7 @@ For dual-booting linux on mac once cloned github repo go into linux folder and t
 # For running windows on linux:
 
 Linux:
+bash lzma.sh unless done already
 Grab the latest checkra1n from http://checkra.in and run checkra1n -cp then grab the latest load-linux.c source code from
 our github https://github.com/cool5tar/projectsandcastle and compile it and run ./load-linux Linux.lzma dtbpack
 
