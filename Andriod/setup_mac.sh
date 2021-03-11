@@ -28,3 +28,5 @@ if [ $? -ne 0 ]; then
 fi
 echo "Setup was successful";
 killall -9 iproxy  > /dev/null 2>&1
+echo "starting to load android..."
+bash start_mac.sh
