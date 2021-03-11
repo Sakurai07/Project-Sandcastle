@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " Cool5tar's android installer starting..."
+echo "Sakurai07's android installer starting..."
 
 echo "started..."
 
