@@ -2,7 +2,7 @@
 
 to install run
 
-git clone https://github.com/cool5tar/Project-Sandcastle/
+git clone https://github.com/sakurai07/Project-Sandcastle/
 
 then choose android for ios
 
